@@ -1,0 +1,1 @@
+python create_pretrain_data.py --train_corpus=/home/kunato/dataset/thai-corpus/corpus/thai_eng_small.txt --output_dir=data_mix_128_10ep/ --max_seq_len=128 --epochs_to_generate=10
